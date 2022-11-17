@@ -19,10 +19,10 @@
           <b-nav-item :to="{ name: 'animals' }" 
             >ANIMAIS</b-nav-item
           >
-          <b-nav-item  
+          <b-nav-item  :to="{ name: 'sponsors' }" 
             >SPONSORS</b-nav-item
           >
-          <b-nav-item  
+          <b-nav-item  :to="{ name: 'experts' }"
             >EXPERTS</b-nav-item
           >
           <b-nav-item :to="{ name: 'quizzes' }" 
