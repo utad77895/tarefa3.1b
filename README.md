@@ -19,3 +19,5 @@ Iniciar o json-server:
 cd db
 json-server --watch db.json
 ```
+# Pasta Mockups_prototipo
+contém os prints do prototipo evolutivo das entidades Patrocinadores e Especialistas.
