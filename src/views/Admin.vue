@@ -15,8 +15,8 @@
             <AdminOptionBox routeName="listQuestions" iconName="question-circle"  title="Questões"/>
           </b-card-group>
           <b-card-group deck class="mt-3">
-            <AdminOptionBox routeName="listQuizzes" iconName="users"  title="SPONSORS"/>
-            <AdminOptionBox routeName="listQuestions" iconName="users"  title="EXPERTS"/>
+            <AdminOptionBox routeName="listSponsors" iconName="euro-sign"  title="Patrocinadores"/>
+            <AdminOptionBox routeName="listExperts" iconName="user-graduate"  title="Especialistas"/>
           </b-card-group>
         </b-col>
         <b-col cols="4"></b-col>

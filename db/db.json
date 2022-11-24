@@ -53,6 +53,52 @@
       "active": true
     }
   ],
+  "experts": [
+    {
+      "name": "Carlos Ferreira",
+      "job": "Médico Veterinário",
+      "description": "Médico com 5 anos de experiência em cirúrgia geral animal.",
+      "expertise": "reptil",
+      "evaluation": [],
+      "comments": [],
+      "id": 1
+    },
+    {
+      "name": "António Joaquim",
+      "job": "Tratador",
+      "description": "Especialista em crocodilos",
+      "expertise": "reptil",
+      "evaluation": [],
+      "comments": [],
+      "id": 2
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "Ultima",
+      "category": "promocional",
+      "description": "Ração para cães",
+      "evaluation": [],
+      "comments": [],
+      "id": 1
+    },
+    {
+      "name": "Royal Canin",
+      "category": "promocional",
+      "description": "Marca ração para cães",
+      "evaluation": [],
+      "comments": [],
+      "id": 2
+    },
+    {
+      "name": "Sojagado",
+      "category": "promocional",
+      "description": "Ração para animais e por vezes pessoas :).",
+      "evaluation": [],
+      "comments": [],
+      "id": 3
+    }
+  ],
   "login": {
     "token": "12345",
     "user": {
